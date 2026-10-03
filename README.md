@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-An image-based Sudoku solver implemented in a Google Colab notebook. It detects a Sudoku grid in an image, recognizes the given digits with a small convolutional neural network, solves the puzzle with backtracking, and overlays the answers on the original image.
+An image-based Sudoku solver for my computer vision practice and learning. It detects a Sudoku grid in an image, recognizes the given digits with a small convolutional neural network, solves the puzzle with backtracking, and overlays the answers on the original image.
 
 ## Project files
 
